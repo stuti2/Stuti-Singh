@@ -105,6 +105,10 @@ i{
 	border-radius: 50%;
 }
 
+.content{
+	text-align: center;
+}
+
 @media only screen and (min-width: 768px){
 	.intro-section{
 		position: relative;
